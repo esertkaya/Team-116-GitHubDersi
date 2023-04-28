@@ -24,7 +24,7 @@ public class C02 {
     //Local bilgisayarda olusturdugumuz bir repo'yu GitHub'a yollamak ve orada yedeklemek istiyorsak
     //oncelikle GitHub hesabi olusturmaniz ve sonrasinda projemizi gonderecegimiz GitHub repo'sunu hazirlamaliyiz
 
-    
+
 
 
 
