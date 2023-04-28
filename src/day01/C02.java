@@ -18,5 +18,14 @@ public class C02 {
     //mavi    : bu dosya vir version'a eklendi ama sonradan degisiklik yapilmis
     //siyah   : bu class bir version'da son haliyle yedeklendi, sonrasinda hic bir degisiklik yok
 
+    // 3- git push : local repo'da commit ettigimiz dosyalarimizi uzak masaustune(GitHub)
+    //               yollamak icin kullanilir.
+
+    //Local bilgisayarda olusturdugumuz bir repo'yu GitHub'a yollamak ve orada yedeklemek istiyorsak
+    //oncelikle GitHub hesabi olusturmaniz ve sonrasinda projemizi gonderecegimiz GitHub repo'sunu hazirlamaliyiz
+
+    
+
+
 
 }
